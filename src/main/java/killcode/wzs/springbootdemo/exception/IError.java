@@ -1,4 +1,4 @@
-package org.wzs.springbootdemo.exception;
+package killcode.wzs.springbootdemo.exception;
 
 public interface IError {
 

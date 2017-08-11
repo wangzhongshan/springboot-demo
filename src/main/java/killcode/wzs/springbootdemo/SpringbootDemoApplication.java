@@ -1,4 +1,4 @@
-package org.wzs.springbootdemo;
+package killcode.wzs.springbootdemo;
 
 import com.didispace.swagger.EnableSwagger2Doc;
 import org.springframework.boot.SpringApplication;

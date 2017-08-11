@@ -1,4 +1,4 @@
-package org.wzs.springbootdemo.exception;
+package killcode.wzs.springbootdemo.exception;
 
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;

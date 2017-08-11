@@ -1,4 +1,4 @@
-package org.wzs.springbootdemo.domain;
+package killcode.wzs.springbootdemo.domain;
 
 import lombok.Builder;
 import lombok.Data;

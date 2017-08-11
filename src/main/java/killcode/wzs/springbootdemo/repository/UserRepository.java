@@ -1,7 +1,7 @@
-package org.wzs.springbootdemo.repository;
+package killcode.wzs.springbootdemo.repository;
 
+import killcode.wzs.springbootdemo.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.wzs.springbootdemo.domain.User;
 
 public interface UserRepository extends JpaRepository<User, Long> {
 

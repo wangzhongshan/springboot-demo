@@ -1,4 +1,4 @@
-package org.wzs.springbootdemo;
+package killcode.wzs.springbootdemo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

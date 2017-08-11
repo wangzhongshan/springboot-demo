@@ -1,9 +1,9 @@
-package org.wzs.springbootdemo.controller;
+package killcode.wzs.springbootdemo.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.wzs.springbootdemo.exception.MyException;
+import killcode.wzs.springbootdemo.exception.MyException;
 
 @Controller
 @RequestMapping("/ex")

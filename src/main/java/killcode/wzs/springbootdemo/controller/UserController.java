@@ -1,9 +1,9 @@
-package org.wzs.springbootdemo.controller;
+package killcode.wzs.springbootdemo.controller;
 
+import killcode.wzs.springbootdemo.domain.User;
+import killcode.wzs.springbootdemo.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import org.wzs.springbootdemo.domain.User;
-import org.wzs.springbootdemo.repository.UserRepository;
 
 @RestController
 @RequestMapping("/user")
