@@ -8,3 +8,4 @@
 ### todo
 * redis (不打算使用spring data redis，太笨重)
 * mongodb(spring data mongodb挺轻量，但mongo的官方插件morphia也不错)
+* mq
